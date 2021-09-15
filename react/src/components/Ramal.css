@@ -1,0 +1,30 @@
+.Table{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.row:hover{
+    background-color: #db7c26;
+    color: white;
+}
+
+.par{
+    background-color: #FFE194;
+}
+
+.header{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.header div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.logo{
+    width: 154px;
+    height: 60px;
+}
