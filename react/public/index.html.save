@@ -29,8 +29,9 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <div style="text-align:center;margin-top:20px">
-    <a href="https://github.com/reytler/busca_ramais" style="text-decoration:none;color:#FFE194;" onMouseOver="this.style.color='white'" onMouseOut="this.style.color='#FFE194'">Link do projeto(GitHub)</a>
+    <div>
+    <a>
+  
     </div>
     <!--
       This HTML file is a template.

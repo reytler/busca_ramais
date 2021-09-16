@@ -1,7 +1,12 @@
 .Table{
-    width: 100vw;
+    width: 90vw;
     justify-content: center;
     align-items: center;
+    margin-left: 4vw;
+}
+
+.Table thead tr th {
+    color: white;
 }
 
 .row:hover{
@@ -10,7 +15,11 @@
 }
 
 .par{
-    background-color: #FFE194;
+    background-color: #ffd957;
+}
+
+.impar{
+    background-color: #ffcb7d;
 }
 
 .header{
@@ -19,9 +28,17 @@
     display: flex;
 }
 
+.header p{
+    color: white;
+}
+
 .header div{
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.header div label{
+    color: white;
 }
 
 .logo{
